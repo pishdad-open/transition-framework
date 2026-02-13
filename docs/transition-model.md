@@ -253,6 +253,95 @@ All mechanisms must operate under predefined temporal limits.
 
 Transitional justice structures automatically dissolve once:
 
+
+## 5. Security Reorganization During Transition
+
+### 5.1 Purpose
+
+The objective of security restructuring during transition is to prevent fragmentation, retaliatory violence, and the emergence of parallel armed power centers.
+
+Public safety must be preserved without reproducing repression.
+
+Security reform during transition is not a purge.
+It is a stabilization process under civilian authority.
+
+---
+
+### 5.2 Civilian Supremacy
+
+All armed and security structures must operate under transparent civilian oversight.
+
+No security institution may exercise autonomous political authority.
+
+Civilian accountability is a non-negotiable condition of legitimacy.
+
+---
+
+### 5.3 Unified National Structure
+
+A transition must move toward a unified national security framework.
+
+Parallel armed institutions undermine stability and create long-term risks of internal power competition.
+
+The transitional authority may supervise:
+
+- Structural consolidation under a single national framework
+- Clear chains of accountability
+- Temporary operational continuity to prevent collapse of public order
+
+---
+
+### 5.4 Continuity with Screening Safeguards
+
+Institutional continuity is necessary to prevent chaos.
+
+However, individuals credibly implicated in severe violations of human rights must be subject to lawful review under the transitional justice framework.
+
+Screening mechanisms must be:
+
+- Evidence-based
+- Individually assessed
+- Legally reviewable
+
+Collective dismissal without due process is prohibited.
+
+---
+
+### 5.5 Protection of Civic Expression
+
+Security forces during transition must prioritize:
+
+- Protection of peaceful assembly
+- Protection of political pluralism
+- Protection of minority groups
+
+The function of security is protection — not ideological enforcement.
+
+---
+
+### 5.6 Prohibition of Expansion
+
+During transition:
+
+- No new armed factions may be created.
+- No emergency militias may be legalized.
+- No temporary security structure may outlive the transitional mandate.
+
+All emergency measures must contain explicit expiration conditions.
+
+---
+
+### 5.7 Long-Term Constitutional Direction
+
+The transition may recommend that the permanent constitutional order:
+
+- Recognize only one national military structure
+- Prohibit parallel armed institutions
+- Establish clear limits on military authority
+- Restrict the development of offensive or mass-destruction capabilities in accordance with international norms
+
+Final determination of permanent security doctrine belongs to the constitutional assembly.
+
 - Their defined mandate is fulfilled, and
 - A permanent constitutional judiciary is established.
 
