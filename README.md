@@ -11,3 +11,9 @@ If it does not, it remains what it is meant to be: a collective exercise in thin
 
 Pishdad is an open draft.  
 It exists to be examined, challenged, improved — or discarded.
+
+---
+
+## Transition Model
+
+Read the full transition model: [Transition Model](docs/transition-model.md)
