@@ -427,3 +427,72 @@ The transitional authority may not:
 - Extend its economic authority beyond its defined temporal scope
 
 Economic power during transition must remain custodial, not proprietary.
+
+---
+
+## 7. Completion of Transition and Constitutional Handover
+
+### 7.1 Purpose
+
+The purpose of the transition is not to establish a new permanent authority.
+
+Its purpose is to enable the lawful emergence of a legitimate constitutional order chosen freely by the people.
+
+The transition exists to transfer power — not to retain it.
+
+---
+
+### 7.2 Constitutional Assembly Formation
+
+The central objective of the transitional period is the formation of a constitutional assembly through free and publicly verifiable election.
+
+This assembly shall have full authority to:
+
+- Draft and ratify a permanent constitution
+- Define the structure of government
+- Establish permanent legal and institutional frameworks
+- Determine the long-term security and economic order
+
+The constitutional assembly represents the sovereign will of the people.
+
+---
+
+### 7.3 Transfer of Authority
+
+Upon the formal establishment of a constitutional government:
+
+- All transitional bodies must immediately transfer their authority.
+- No transitional institution may override constitutional legitimacy.
+- All emergency mandates automatically expire.
+
+Authority must flow forward — never backward.
+
+---
+
+### 7.4 Automatic Dissolution of Transitional Structures
+
+All transitional institutions, including the Transitional Civic Council and associated transitional mechanisms, must automatically dissolve upon completion of their mandate.
+
+No extension may occur without explicit public constitutional authorization.
+
+Self-termination is a condition of legitimacy.
+
+---
+
+### 7.5 Legal and Institutional Continuity
+
+All lawful decisions made under the transitional framework remain valid unless explicitly amended or repealed by the constitutional government.
+
+The constitutional order becomes the sole source of legitimate authority.
+
+No parallel or residual transitional power may persist.
+
+---
+
+### 7.6 Final Principle
+
+The success of a transition is not measured by the power it exercises.
+
+It is measured by the power it peacefully relinquishes.
+
+A legitimate transition ends by making itself unnecessary.
