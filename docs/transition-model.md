@@ -35,3 +35,70 @@ Its mandate is not to rule.
 Its mandate is to prevent chaos and enable lawful renewal.
 
 Once a legitimate constitutional government is formed through free public election, all transitional structures must automatically dissolve.
+
+## 2. Core Risks of an Unmanaged Transition
+
+Political transitions triggered by a loss of legitimacy are inherently unstable.  
+Without a structured framework, three systemic risks typically emerge:
+
+### 2.1 Revenge-Based Violence
+
+Public anger, especially after periods of repression or bloodshed, can escalate into collective retaliation.
+
+Uncontrolled retaliation leads to:
+- Extrajudicial punishment
+- Property seizures without due process
+- Personal vendettas disguised as justice
+- Escalation into cycles of violence
+
+Such dynamics weaken moral legitimacy and create conditions for future authoritarian restoration.
+
+Justice must be institutional, not emotional.
+
+---
+
+### 2.2 Institutional Collapse
+
+When state authority weakens abruptly, critical systems may fail:
+
+- Public security
+- Judicial continuity
+- Financial administration
+- Infrastructure coordination
+
+A sudden vacuum of authority creates fragmentation and opportunistic power centers.
+
+Institutional continuity — even during restructuring — is essential to prevent chaos.
+
+---
+
+### 2.3 Power Vacuum Exploitation
+
+History shows that unstructured transitions often produce:
+
+- Competing armed factions
+- Revolutionary tribunals without oversight
+- Charismatic figures claiming emergency authority
+- Concentration of power justified as temporary necessity
+
+Temporary emergency power has a documented tendency to become permanent.
+
+A transition must therefore design its own limitations from the beginning.
+
+---
+
+### 2.4 Emotional Capture of Justice
+
+When victims or directly affected groups assume judicial authority without structural safeguards, the line between justice and revenge can blur.
+
+This does not diminish the legitimacy of suffering.  
+It recognizes the need for procedural distance in order to preserve fairness and long-term stability.
+
+Conflict-of-interest safeguards are essential for credible accountability.
+
+---
+
+The purpose of identifying these risks is not to suppress public demand for justice.
+
+It is to ensure that justice strengthens the future —  
+rather than destabilizes it.
