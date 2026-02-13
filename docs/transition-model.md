@@ -352,3 +352,78 @@ The transition may recommend that the permanent constitutional order:
 
 Final determination of permanent security doctrine belongs to the constitutional assembly.
 
+---
+
+## 6. Economic and Public Asset Transparency During Transition
+
+### 6.1 Purpose
+
+The objective of economic oversight during transition is to restore transparency, protect public wealth, and prevent opportunistic capture of state assets.
+
+Economic accountability must strengthen institutional trust — not trigger economic destabilization.
+
+---
+
+### 6.2 Protection of Public Assets
+
+All public assets, including state-owned enterprises, national resources, and sovereign funds, must remain operational and protected during transition.
+
+Emergency privatization, liquidation, or asset transfers are prohibited during the transitional mandate.
+
+Continuity prevents economic shock.
+
+---
+
+### 6.3 Investigation of Unlawful Enrichment
+
+Where credible evidence suggests unlawful appropriation of public wealth:
+
+- Investigations must follow documented evidentiary standards.
+- Asset tracing must comply with international financial transparency norms.
+- Freezing or recovery of assets must be judicially authorized.
+- All proceedings must be subject to public audit mechanisms.
+
+No collective economic punishment is permitted.
+
+Individual accountability requires evidence.
+
+---
+
+### 6.4 Transparency Mechanisms
+
+The transitional authority must establish:
+
+- Public disclosure of recovered assets
+- Independent financial oversight committees
+- Transparent reporting of national reserves and liabilities
+- Open publication of emergency economic measures
+
+Opacity during transition creates future corruption.
+
+Transparency prevents it.
+
+---
+
+### 6.5 Public Ownership and Long-Term Direction
+
+The transitional framework may recommend that the permanent constitutional order:
+
+- Define national resources as collectively owned by the people
+- Establish transparent national holding or public trust structures
+- Guarantee public reporting of state-controlled economic entities
+- Prevent concentration of national wealth within opaque networks
+
+Final economic structure must be determined by the elected constitutional assembly.
+
+---
+
+### 6.6 Prohibition of Transitional Economic Capture
+
+The transitional authority may not:
+
+- Redistribute public assets without constitutional mandate
+- Grant exclusive concessions
+- Create permanent economic monopolies
+- Extend its economic authority beyond its defined temporal scope
+
+Economic power during transition must remain custodial, not proprietary.
