@@ -36,6 +36,8 @@ Its mandate is to prevent chaos and enable lawful renewal.
 
 Once a legitimate constitutional government is formed through free public election, all transitional structures must automatically dissolve.
 
+---
+
 ## 2. Core Risks of an Unmanaged Transition
 
 Political transitions triggered by a loss of legitimacy are inherently unstable.  
@@ -103,6 +105,7 @@ The purpose of identifying these risks is not to suppress public demand for just
 It is to ensure that justice strengthens the future —  
 rather than destabilizes it.
 
+---
 
 ## 3. Transitional Civic Council
 
@@ -173,6 +176,7 @@ The Council automatically dissolves upon:
 
 No transitional authority may continue beyond this point.
 
+---
 
 ## 4. Transitional Justice Framework
 
@@ -253,6 +257,12 @@ All mechanisms must operate under predefined temporal limits.
 
 Transitional justice structures automatically dissolve once:
 
+- Their defined mandate is fulfilled, and
+- A permanent constitutional judiciary is established.
+
+Justice during transition must bridge toward stability — not institutionalize emergency authority.
+
+---
 
 ## 5. Security Reorganization During Transition
 
@@ -342,7 +352,3 @@ The transition may recommend that the permanent constitutional order:
 
 Final determination of permanent security doctrine belongs to the constitutional assembly.
 
-- Their defined mandate is fulfilled, and
-- A permanent constitutional judiciary is established.
-
-Justice during transition must bridge toward stability — not institutionalize emergency authority.
