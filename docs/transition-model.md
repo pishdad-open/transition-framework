@@ -172,3 +172,88 @@ The Council automatically dissolves upon:
 - The ratification of a new constitutional order.
 
 No transitional authority may continue beyond this point.
+
+
+## 4. Transitional Justice Framework
+
+### 4.1 Purpose
+
+The purpose of transitional justice is not retaliation.
+
+It is to establish accountability through lawful, structured, and transparent procedures in order to prevent future cycles of violence.
+
+Justice must restore institutional credibility —  
+not satisfy collective anger.
+
+---
+
+### 4.2 Guiding Principles
+
+All transitional accountability mechanisms must adhere to:
+
+- **Due Process** — No individual may be detained, prosecuted, or sanctioned without formal legal procedure.
+- **Presumption of Innocence** — Collective guilt is prohibited.
+- **Individual Responsibility** — Accountability applies to actions, not affiliations.
+- **Proportionality** — Penalties must be legally defined and proportionate.
+- **Public Transparency** — Proceedings must be documented and accessible.
+- **Right to Defense** — Every accused individual must have legal representation.
+
+---
+
+### 4.3 Institutional Safeguards
+
+To prevent politicization or revenge dynamics:
+
+- Individuals directly affected by prior violence may not serve in adjudicative roles.
+- Emergency tribunals without procedural safeguards are prohibited.
+- All prosecutorial and judicial functions must be separated institutionally.
+- Independent oversight mechanisms must monitor proceedings.
+
+The legitimacy of the transition depends on visible procedural fairness.
+
+---
+
+### 4.4 Scope of Jurisdiction
+
+Transitional justice mechanisms are limited to:
+
+- Allegations of severe violations of human rights
+- Systemic corruption tied to abuse of public authority
+- Crimes involving unlawful lethal force or torture
+
+The framework must clearly define its jurisdiction to prevent arbitrary expansion.
+
+---
+
+### 4.5 Asset Recovery and Public Transparency
+
+Where credible evidence demonstrates unlawful appropriation of public assets:
+
+- Investigations must follow documented evidentiary standards.
+- Asset recovery must be judicially authorized.
+- Recovered assets must be publicly audited and transparently allocated.
+
+Asset accountability must reinforce public trust — not create new opaque power structures.
+
+---
+
+### 4.6 Non-Retroactive Expansion of Power
+
+Transitional justice bodies may not:
+
+- Create new categories of crime retroactively.
+- Expand their jurisdiction beyond defined mandate.
+- Extend their own authority indefinitely.
+
+All mechanisms must operate under predefined temporal limits.
+
+---
+
+### 4.7 Completion and Dissolution
+
+Transitional justice structures automatically dissolve once:
+
+- Their defined mandate is fulfilled, and
+- A permanent constitutional judiciary is established.
+
+Justice during transition must bridge toward stability — not institutionalize emergency authority.
