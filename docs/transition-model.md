@@ -102,3 +102,73 @@ The purpose of identifying these risks is not to suppress public demand for just
 
 It is to ensure that justice strengthens the future —  
 rather than destabilizes it.
+
+
+## 3. Transitional Civic Council
+
+### 3.1 Nature and Purpose
+
+The Transitional Civic Council is a temporary, civilian-based body established to safeguard stability during a period of political transition.
+
+It is not a permanent government.  
+It is not a revolutionary authority.  
+It is not a substitute for an elected parliament.
+
+Its sole mandate is to prevent systemic collapse, ensure lawful accountability, and prepare the conditions for democratic constitutional formation.
+
+---
+
+### 3.2 Foundational Principles
+
+The Council must operate under the following constraints:
+
+- **Temporariness** — Its authority is strictly time-bound.
+- **Transparency** — All decisions must be publicly documented.
+- **Limited Scope** — It cannot legislate beyond transitional necessity.
+- **Non-Partisanship** — Members may not represent political factions.
+- **Civilian Supremacy** — All security restructuring remains accountable to civilian oversight.
+- **Conflict-of-Interest Safeguards** — Individuals directly involved in prior political violence may not serve in adjudicative roles.
+
+---
+
+### 3.3 Core Functions
+
+The Council’s responsibilities are limited to:
+
+1. Supervising transitional justice mechanisms grounded in due process.
+2. Overseeing temporary restructuring of national security under unified civilian accountability.
+3. Protecting public order without suppressing lawful civic expression.
+4. Preserving continuity of essential state services.
+5. Preparing procedural groundwork for the election of a constitutional assembly.
+
+The Council may not:
+- Extend its own mandate.
+- Suspend fundamental human protections.
+- Establish parallel armed forces.
+- Override the outcome of a free public election.
+
+---
+
+### 3.4 Selection and Legitimacy
+
+Legitimacy must derive from broad civic endorsement and transparent criteria.
+
+Membership criteria should include:
+
+- Demonstrated public trust
+- Absence of involvement in prior systemic repression
+- No active affiliation with armed factions
+- Commitment to procedural neutrality
+
+Selection mechanisms must be publicly auditable.
+
+---
+
+### 3.5 Sunset Clause
+
+The Council automatically dissolves upon:
+
+- The formal establishment of a democratically elected constitutional assembly, or
+- The ratification of a new constitutional order.
+
+No transitional authority may continue beyond this point.
